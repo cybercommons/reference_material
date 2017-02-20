@@ -19,18 +19,18 @@ oUsing python tools as middleware, we demonstrate a loosely coupled service-orie
 
 1. API [http://www.django-rest-framework.org/](http://www.django-rest-framework.org/)
     * Tutorial 1-7
-3. [Git Software carpentry](http://swcarpentry.github.io/git-novice/)  
+1. [Git Software carpentry](http://swcarpentry.github.io/git-novice/)  
     * [Lynda Git Tutorial](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html)
-2. Cybercommons 
+1. Cybercommons 
     * [Installation](https://github.com/cybercommons/cybercom-cookiecutter)
-3. Python Pandas 
+1. Python Pandas 
     * [Pandas](http://pandas.pydata.org/)
     * [SWC_Python](https://swcarpentry.github.io/python-novice-gapminder/)
-4. HTML and Javascript
+1. HTML and Javascript
     * [HTML](https://www.w3schools.com/html/)
     * [Lynda HTML]()
-4. Visualization Integration
-5.  Work and familierize with Visualization and Back End
+1. Visualization Integration
+1.  Work and familierize with Visualization and Back End
 
 ### Visualizations
 
