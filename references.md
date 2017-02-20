@@ -22,9 +22,15 @@ oUsing python tools as middleware, we demonstrate a loosely coupled service-orie
 3. [Git Software carpentry](http://swcarpentry.github.io/git-novice/)  
     * [Lynda Git Tutorial](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html)
 2. Cybercommons 
-
-* Visualization Integration
-* Work and familierize with Visualization and Back End
+    * [Installation](https://github.com/cybercommons/cybercom-cookiecutter)
+3. Python Pandas 
+    * [Pandas](http://pandas.pydata.org/)
+    * [SWC_Python](https://swcarpentry.github.io/python-novice-gapminder/)
+4. HTML and Javascript
+    * [HTML](https://www.w3schools.com/html/)
+    * [Lynda HTML]()
+4. Visualization Integration
+5.  Work and familierize with Visualization and Back End
 
 ### Visualizations
 
