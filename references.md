@@ -21,6 +21,7 @@ Using python tools as middleware, we demonstrate a loosely coupled service-orien
     * Tutorial 1-7
 1. [Git Software carpentry](http://swcarpentry.github.io/git-novice/)  
     * [Lynda Git Tutorial](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html)
+    * [Youtube Git Tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE)
 1. Cybercommons 
     * [Installation](https://github.com/cybercommons/cybercom-cookiecutter)
 1. Python Pandas 
